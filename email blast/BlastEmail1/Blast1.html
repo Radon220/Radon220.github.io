@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <title>blast email</title>
+    <script type="text/javascript" src="jquery_3_4_1.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.js"></script>
+    <script type="text/javascript" src="blastScript.js" ></script>
+    <style>
+        table, th, td {
+            border: 1px dotted black;
+        }
+}   </style>
+
+</head>
+
+    <body>
+        <form>
+
+            <input type="file" accept=".csv" id="inputF" />
+            <br />
+            <textarea id="subject" name="Subject" rows="1" cols="30" placeholder="Subject"></textarea>
+            <br />
+            <textarea id="content" name="Content" rows="10" cols="30" placeholder="Text"></textarea>
+            <br />
+            <input type="button" value="Send Email" id="submit">
+            <br />
+            <!--<input type="button" value="testBtn" id="testBtn">-->
+
+        </form>
+
+        <div id="display">
+            Emails sent to:
+            <br />
+
+        </div>
+
+    </body>
+</html>

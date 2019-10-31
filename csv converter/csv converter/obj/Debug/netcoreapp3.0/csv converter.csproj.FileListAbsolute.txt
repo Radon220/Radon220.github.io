@@ -1,0 +1,18 @@
+D:\projects\csv converter\csv converter\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\projects\csv converter\csv converter\bin\Debug\netcoreapp3.0\appsettings.json
+D:\projects\csv converter\csv converter\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\projects\csv converter\csv converter\bin\Debug\netcoreapp3.0\csv converter.exe
+D:\projects\csv converter\csv converter\bin\Debug\netcoreapp3.0\csv converter.deps.json
+D:\projects\csv converter\csv converter\bin\Debug\netcoreapp3.0\csv converter.runtimeconfig.json
+D:\projects\csv converter\csv converter\bin\Debug\netcoreapp3.0\csv converter.runtimeconfig.dev.json
+D:\projects\csv converter\csv converter\bin\Debug\netcoreapp3.0\csv converter.dll
+D:\projects\csv converter\csv converter\bin\Debug\netcoreapp3.0\csv converter.pdb
+D:\projects\csv converter\csv converter\obj\Debug\netcoreapp3.0\csv converter.csprojAssemblyReference.cache
+D:\projects\csv converter\csv converter\obj\Debug\netcoreapp3.0\staticwebassets\csv converter.StaticWebAssets.Manifest.cache
+D:\projects\csv converter\csv converter\obj\Debug\netcoreapp3.0\staticwebassets\csv converter.StaticWebAssets.xml
+D:\projects\csv converter\csv converter\obj\Debug\netcoreapp3.0\csv converter.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\csv converter\csv converter\obj\Debug\netcoreapp3.0\csv converter.AssemblyInfoInputs.cache
+D:\projects\csv converter\csv converter\obj\Debug\netcoreapp3.0\csv converter.AssemblyInfo.cs
+D:\projects\csv converter\csv converter\obj\Debug\netcoreapp3.0\csv converter.RazorTargetAssemblyInfo.cache
+D:\projects\csv converter\csv converter\obj\Debug\netcoreapp3.0\csv converter.dll
+D:\projects\csv converter\csv converter\obj\Debug\netcoreapp3.0\csv converter.pdb
